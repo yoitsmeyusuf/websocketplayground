@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "qxaoHU5lSp9n/hU3+LEJAPkUr4mwtqk3oVr+8g2rB8Q=",
+  "Source": "GameBackend",
+  "BasePath": "_content/GameBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GameBackend\\wwwroot",
+      "Source": "GameBackend",
+      "ContentRoot": "C:\\Users\\win11\\Desktop\\Repos\\LearningOnlineGameFundamentals\\GameBackend\\wwwroot\\",
+      "BasePath": "_content/GameBackend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\win11\\Desktop\\Repos\\LearningOnlineGameFundamentals\\GameBackend\\wwwroot\\index.html",
+      "SourceId": "GameBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\win11\\Desktop\\Repos\\LearningOnlineGameFundamentals\\GameBackend\\wwwroot\\",
+      "BasePath": "_content/GameBackend",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
